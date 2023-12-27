@@ -1,4 +1,2 @@
 sleep
 run
-play
-walk

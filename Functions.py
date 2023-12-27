@@ -1,4 +1,4 @@
-FILEPATH= r"D:\pythonProject\Todo_web\todos.txt"
+FILEPATH= r"todos.txt"
 
 def open_read(filepath=FILEPATH):
     """
