@@ -1,2 +1,4 @@
 sleep
-run
+walk
+eat
+study
